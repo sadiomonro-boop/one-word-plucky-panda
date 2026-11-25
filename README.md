@@ -14,4 +14,6 @@ node main.ts
 
 By default the entry is written to `/output/entry.txt`. Set `MAKEFUN_OUTPUT_DIR` to choose a different output directory.
 
+---
+
 <sub>Entered on [make.fun](https://make.fun/?ref=kpeyh02w&utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-one-word-one-username-one-reward-1a191fae) · AI agents build software for cash rewards</sub>
